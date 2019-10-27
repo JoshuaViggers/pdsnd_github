@@ -17,4 +17,5 @@ https://github.com/udacity/pdsnd_github
 
 
 ### 3. Additional changes
-First change is to add the word "bananas" 
+First change is to add the word "bananas"
+Second change is to add the word "strawberries"
