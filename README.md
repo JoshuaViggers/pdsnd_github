@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+October 27, 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare_2
 
 ### Description
-Describe what your project is about and what it does
+Not yet functional code as of 10/27/19, but I'm hoping I can still use it for this project
 
 ### Files used
-Include the files used
+bikeshare_2.gitignore
+bikeshare_2.py
+README.MD
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
+
+### 3. Additional changes
+First change is to add the word "bananas"
+Second change is to add the word "strawberries"
