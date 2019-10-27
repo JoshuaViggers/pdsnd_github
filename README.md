@@ -14,3 +14,7 @@ README.MD
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+
+
+### 3. Additional changes
+First change is to add the word "bananas" 
