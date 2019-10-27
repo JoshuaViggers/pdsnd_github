@@ -8,7 +8,9 @@ Bikeshare_2
 Not yet functional code as of 10/27/19, but I'm hoping I can still use it for this project
 
 ### Files used
-Include the files used
+bikeshare_2.gitignore
+bikeshare_2.py
+README.MD
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
