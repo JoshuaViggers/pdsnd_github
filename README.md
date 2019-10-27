@@ -2,10 +2,10 @@
 October 27, 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare_2
 
 ### Description
-Describe what your project is about and what it does
+Not yet functional code as of 10/27/19, but I'm hoping I can still use it for this project
 
 ### Files used
 Include the files used
